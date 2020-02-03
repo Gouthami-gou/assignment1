@@ -1,0 +1,56 @@
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.info {
+  border-color: #2196F3;
+  color: dodgerblue
+}
+
+.info:hover {
+  background: #2196F3;
+  color: white;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {border-radius: 50%;}
+  
+
+
+  .add{
+  background-image: url('/images/add.png');
+  background-repeat: no-repeat;
+  border-radius: 40%;
+  background-color:palevioletred;
+  }
+
+  .down{
+    margin-top: 100px;
+    margin-left: 550px;
+    height: 80%;
+  }
+  .modal-dialog {
+    border: 3px solid #000000;
+    width: 800px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+     border-radius: 100px;
+}
